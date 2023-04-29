@@ -1,10 +1,18 @@
 {
   "files": {
-    "main.js": "/react-payments/static/js/main.31480446.js",
+    "main.js": "/react-payments/static/js/main.778869cf.js",
+    "static/media/sinhan_logo.svg": "/react-payments/static/media/sinhan_logo.84be6bf6f80d24548bf1ffbc9c267bfb.svg",
+    "static/media/bc_logo.svg": "/react-payments/static/media/bc_logo.6eb30052b265522c454ced82abcb2077.svg",
+    "static/media/kakao_logo.svg": "/react-payments/static/media/kakao_logo.7e34f170b9d7263fcc4c331255f8dfb3.svg",
+    "static/media/hyundai_logo.svg": "/react-payments/static/media/hyundai_logo.d2410a0858284545dabc3b451407001a.svg",
+    "static/media/lotte_logo.svg": "/react-payments/static/media/lotte_logo.569c93ca494a613b419ac675642c4f29.svg",
+    "static/media/woori_logo.svg": "/react-payments/static/media/woori_logo.a40166362f165f8e30aed38a0616eb04.svg",
+    "static/media/kookmin_logo.svg": "/react-payments/static/media/kookmin_logo.8755444753bada1b0fb2f3c773d2533d.svg",
+    "static/media/hana_logo.svg": "/react-payments/static/media/hana_logo.911c6e7a8707d74cd4302415dc7699e0.svg",
     "index.html": "/react-payments/index.html",
-    "main.31480446.js.map": "/react-payments/static/js/main.31480446.js.map"
+    "main.778869cf.js.map": "/react-payments/static/js/main.778869cf.js.map"
   },
   "entrypoints": [
-    "static/js/main.31480446.js"
+    "static/js/main.778869cf.js"
   ]
 }
